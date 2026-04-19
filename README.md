@@ -1,1 +1,3 @@
-# csc150_team_demo_website
+# Week 12: Team Demo Website
+
+Natalie Bar, Charles Cataldo, Andrew Chisholm, Alexander Hyde, Brooks Jackson
