@@ -4,24 +4,13 @@
 
 Momentum is a landing page concept for a productivity application aimed at college students and young professionals. The product combines task management, focus timing, and habit tracking in one interface so users can stay organized without juggling several separate tools.
 
-## Assignment checklist
-
-- Complete demo website with hero, features, how it works, pricing, testimonials, and final CTA
-- AI-generated brand and UI visuals saved in `src/assets/`
-- Prompt list included in this document
-- Iteration notes included in this document
-- Team contribution summary included in this document
-- Reflection included in this document
-- AI disclosure included in this document
-- No API keys, tokens, or passwords stored in project files
-
 ## Tools used
 
 - React
 - Vite
 - Tailwind CSS
 - Codex for layout, copy, styling, and SVG asset generation inside repo
-- AI image prompt directions prepared for Copilot and Gemini Nano Banana style generation
+- AI image prompt directions prepared for Copilot and Gemini
 
 ## AI asset prompt list
 
@@ -103,16 +92,26 @@ Saved file:
 
 ## Reflection
 
-Our team wanted to build something that looked realistic enough to present as a real product while still being small enough to finish in a short class project window. We chose a productivity landing page because it connected well to earlier brainstorming around organization, habit building, and focused work. That made it easier to define a clear audience, clear value proposition, and sections that are common in real SaaS websites.
+Building this project gave us a clearer picture of what actually makes a landing page work. It's easy to focus on making something look good—but we kept running into the same question: does someone landing on this page immediately understand what the product does and why they'd care? That kept us honest.
 
-AI was most helpful in two places. First, it sped up ideation. It helped us move quickly from a broad idea into concrete landing page sections, sample copy, and visual directions. Second, it helped with implementation. Vibe coding tools and AI-assisted coding were useful for getting a working front-end structure in place quickly, then refining spacing, responsiveness, and section flow. That saved time on repetitive setup and let us focus more on decisions about layout and clarity.
+We spent a lot of time on structure. The flow we landed on—hero section up front, features in the middle, call-to-action at the end—sounds obvious, but getting it to feel natural took more iteration than we expected. The bigger shift was moving from "here are the features" to "here's how this changes your day." Task management, focus timers, habit tracking—those are fine to list, but they only land if the reader connects them to something real in their life.
 
-At the same time, AI had weaknesses. Outputs could feel generic, overly wordy, or too polished in a way that did not always match our assignment goals. We still had to review everything closely, rewrite copy, simplify layouts, and make sure the final result felt intentional instead of auto-generated. It also did not automatically handle project requirements like process documentation, contribution summaries, or assignment-specific details, so we had to organize those ourselves.
+Designing for college students and young professionals shaped a lot of our decisions. We wanted it to feel clean and focused, not cluttered. The color palette—soft neutrals, blue accents—wasn't just an aesthetic choice. That combination reads as calm and professional, which felt right for an app centered on focus and productivity. Typography and spacing followed the same logic.
 
-The biggest takeaway from vibe coding was that speed is useful only when paired with editing and judgment. AI helped us produce a strong starting point, but the final quality came from reviewing, trimming, and aligning the work as a team. That balance between quick generation and careful revision was the most important part of our workflow.
+We used AI tools throughout. Codex and Claude Code helped us move fast on the front-end side—testing layouts, generating structure, working through styling. Copilot and Gemini handled visual exploration: mockups, icons, early visual directions. They were genuinely useful, but they required a lot of review. Generated content needed to be checked, trimmed, and adjusted to actually fit what we were building. The tools are fast—they're not always right.
+
+One thing we wrestled with was how minimal to go. Too sparse and the page loses context; too detailed and it starts to feel dense. We went back and forth on that a few times, cutting and re-adding copy in different sections until it felt balanced.
+
+Team-wise, we divided work along natural lines—technical build, visual direction, and content were mostly handled by different people. That made it easy to move quickly, but it also meant staying in sync mattered. When design assumptions and code decisions started to drift, we had to regroup and realign. That back-and-forth was actually one of the more useful parts of the process—it forced us to articulate decisions we'd otherwise just make quietly and move on from.
+
+If we kept working on this, we'd focus on adding interactive elements and tightening the user journey. But as a foundation, this gave us a solid understanding of how to build something that communicates clearly and holds together visually.
 
 ## AI disclosure
 
-- Codex: code generation, section copy, styling updates, SVG asset creation, and documentation drafting
-- Copilot: prompt direction for brand and visual asset exploration
-- Gemini Nano Banana: prompt direction for alternate visual iterations
+Our team used AI tools throughout this project to support ideation, design, and development—not to do the work for us.
+
+For visuals, we used Copilot and Gemini to generate UI mockups, icons, and early design concepts. These gave us a fast way to explore directions, but everything generated was reviewed and refined before it made it into the final product.
+
+On the development side, Codex and Claude Code helped with writing and organizing front-end code. They sped things up, but all output was evaluated and adjusted by our team. Nothing was dropped in untouched.
+
+All major decisions—structure, content, design direction—were made by us. AI handled some of the groundwork; we handled the judgment calls.
