@@ -62,27 +62,44 @@ Saved file:
 
 ### Logo iterations
 
-1. Initial direction focused on a rounded square badge with simple productivity symbolism
-2. Second direction emphasized motion and momentum with a more dynamic split shape
-3. Final direction balanced app-icon readability with a clean landing-page look
+1. Initial direction focused on a rounded square badge with simple productivity symbolism — combined an M letterform with an upward arrow to convey growth and momentum
+
+![Logo Iteration 1](Logo%20(Iteration%201).png)
+
+2. Second direction simplified to a bold standalone M letterform with a blue gradient, prioritizing app-icon readability over illustrative detail
+
+![Logo Iteration 2 / Final](Logo%20(Iteration%202-Final).png)
+
+3. Final direction settled on the clean M mark for its versatility across small sizes and its modern SaaS aesthetic
 
 ### Feature icon iterations
 
-1. First set used very literal UI symbols
+1. First set used very literal UI symbols; generated alongside a reference layout to ensure consistent scale and visual language across task, timer, habit, and insights icons
+
+![Feature Icons](Feature%20Icons.png)
+
 2. Second set simplified forms and made line weight more consistent
-3. Final set matched the same rounded blue visual language across all four icons
+3. Final set matched the same rounded blue visual language across all four icons — these were then redrawn as SVGs for use in the site
 
 ### Hero illustration iterations
 
-1. First concept centered on a generic dashboard blockout
-2. Second concept separated tasks, timer, and habit modules more clearly
-3. Final concept emphasized a clean SaaS composition with stronger contrast and clearer cards
+1. First concept centered on a generic dashboard blockout with a dark sidebar and task/timer/habit modules
+
+![Hero Illustration Iteration 1](Hero%20Illustration%20(Iteration%201).png)
+
+2. Second concept shifted to a lighter, more editorial composition with a landing page frame and supporting feature callouts
+
+![Hero Illustration Iteration 2 / Final](Hero%20Illustration%20(Iteration%202-Final).png)
+
+3. Final concept emphasized a clean SaaS composition with stronger contrast and clearer cards — the overall layout informed the SVG hero visual built into the site
 
 ## Team contribution summary
 
-- Brooks: project setup, folder structure, global styling, layout shell, section integration, final responsiveness, and polish
-- Team content direction: landing page topic, audience, and brand direction
-- Additional team members can expand this section with exact writing, visual, and documentation contributions before submission
+- **Brooks Jackson**: project setup, Vite/React/Tailwind configuration, folder structure, global styling, component architecture, all section layouts, responsive design, asset integration, and final polish
+- **Natalie Bar**: defined the brand direction and visual identity — chose the blue and soft neutral color palette, established typography rules, and led decisions on spacing and layout tone across sections; also wrote the features section copy and the how it works section copy
+- **Charles Cataldo**: wrote the team reflection and compiled the AI disclosure; contributed to early brainstorming on topic selection and target audience framing
+- **Andrew Chisholm**: created the initial wireframes and section flow outline that the team used as a build reference; wrote the hero section headline and subheadline copy and the pricing section copy; tested the final site across multiple screen sizes and browsers
+- **Alexander Hyde**: proposed the Momentum concept and productivity app topic; wrote the testimonials section copy and the footer tagline; led the AI image generation sessions and iterated on visual asset prompts in Copilot and Gemini
 
 ## Reflection
 
